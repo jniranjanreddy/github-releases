@@ -10,3 +10,4 @@ jobs:
         run: | 
           node -n
           npm -v
+          id
