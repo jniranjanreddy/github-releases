@@ -17,4 +17,3 @@ jobs:
 
         paths-ignore:
             - 'README.md'
-            - '.github/workflows/main.yml'
