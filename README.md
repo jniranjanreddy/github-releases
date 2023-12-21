@@ -1,1 +1,1 @@
-## github-releases
+## this repo is to github-releases only
