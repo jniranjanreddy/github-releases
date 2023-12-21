@@ -5,6 +5,7 @@ on:
       - 'README.md'
     branches-ignore:    
       - 'develop'
+      - 'staging'
 jobs:
     build:
         runs-on: ubuntu-latest
