@@ -6,6 +6,9 @@ on:
     branches-ignore:    
       - 'develop'
       - 'staging'
+    tags-ignore:        
+      - v2
+      - v1.*
 jobs:
     build:
         runs-on: ubuntu-latest
